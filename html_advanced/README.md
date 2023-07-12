@@ -1,0 +1,1 @@
+HTML Advanced structure only - no CSS, no style - just pure HTML semantic.
