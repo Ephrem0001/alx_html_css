@@ -31,3 +31,6 @@ th{
     display: flex;
     justify-content: center;
 }
+.logo {
+    font-size: 24px;
+  }
