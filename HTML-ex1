@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ephrem-Mekonnen CV</title>
+  </head>
+  <body style="border: 2px;">
+    <header >
+    <img style="float: left;margin-right: 20px; border-radius: 52%; max-width: 200px; max-height: 200px;" src="photo/ephrem.jpg" alt="ephrem profile picture"></left></right>
+    <br/>
+    <br/>
+    <p>Ephrem Mekonnen</p>
+    <p>Software Engineer</p>
+  </header>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <div style="background-color: rgb(116, 111, 121);">
+<section>
+    <section class="section">
+
+      <!--current education status-->
+      <h2>Education</h2>    
+      <ul>
+        <li><strong>Acadamic status:</strong> Studing Software Engineering</li>
+        <li><strong>Institution:</strong> Arbaminch University</li>
+        <p>Relevant coursework: Data Structures and Algorithms, Web Development, Software Design and Architecture</p>
+      </ul>
+    </section>
+
+    <!--skill accuare-->
+    <section class="section" >
+      <h2>Skills</h2>
+      <ul type="circle" >
+        <li style="display: inline-block;background-color: #007bff;color: #fff;padding: 5px 10px;margin-right: 10px;margin-bottom: 10px;border-radius: 5px;font-size: 16px;
+        "><em>Java</em></li>
+        <br/>
+        <li style="display: inline-block;background-color: #007bff;color: #fff;padding: 5px 10px;margin-right: 10px;margin-bottom: 10px;font-size: 16px;
+        "><em>C++</em></li>
+        <br/>
+        <li style="display: inline-block;background-color: #007bff;color: #fff;padding: 5px 10px;margin-right: 10px;margin-bottom: 10px;border-radius: 5px;font-size: 16px;
+        "><em>HTML5</em></li>
+        <br/>
+        <li style="display: inline-block;background-color: #007bff;color: #fff;padding: 5px 10px;margin-right: 10px;margin-bottom: 10px;border-radius: 5px;font-size: 16px;
+        "><em>CSS3</em></li>
+		</ul>
+		</section>
+
+    <!--action spend in free time-->
+    <section class="section" >
+      <h2 >Hobbies</h2>
+      <ul type="square">
+        <li>swimming</li>
+        <li>Reading</li>
+        <li>Gaming</li>           
