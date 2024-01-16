@@ -57,3 +57,46 @@
         <li>swimming</li>
         <li>Reading</li>
         <li>Gaming</li>           
+      </ul>
+    </section>
+
+    <!--language spoken by ephrem-->
+    <section class="section" >
+      <h2>Language</h2>
+      <ol>
+        <li>English</li>
+        <li>Amharic</li>
+      </ol>
+    </section>
+
+    <!-- About ephrem -->
+    <section class="section" >
+      <h3><strong><em>About me</em></strong></h3>
+      <p> - My Name is <strong>Ephrem mekonnen</strong>, I study software Engineering in Arbaminch university.<br/> I study my elementary grade in A.A and finish highschool in debremarkos preparatory school. I was with my family one brother and no sister. </p>
+      </section>
+
+      <!-- Contact section -->
+      <section class="section" >
+      <h2 class="contact">Contact Info</h2>
+      <ul>
+        <li>Email: ephrem8118@email.com</li>
+        <li>Phone: +251936747400</li>
+        <li><address>kebele 07, Debremarkos, Ethiopia</address></p>
+        </li>
+        <div>
+          <i class="fas fa-facebook contact-info-icon"></i>
+          <a href="https://facebook.com/ephrem.merid" target="_blank">Facebook</a>
+         </div>
+         <div>
+          <i class="fab fa-github contact-info-icon"></i>
+          <a href="https://github.com/Ephrem0001" target="_blank">Github</a>
+         </div>
+      </ul>
+    </section>
+    <br/>
+    <a href="#" style="color:rgb(228, 224, 217);">GO ABOVE</a>
+    </section>
+    </div>
+    </body>
+		</html>
+		
