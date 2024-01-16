@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A/Minch Delivery</title>
+    <header><h1>Welcome to A/Minch Delivery</h1></header>
+</head>
+<body>
+    <ul>
+        <li><a href='/'>Home</a></li>
+        <li><a href="#arbaminch">About A/Minch Delivery</a></li>
+        <li><a href="#menu">Our Menu</a></li>
+        <li><a href='/contact'>Contact us</a></li>
+    </ul>
+    <img src="image/burger.jpeg"><br/>
+    <caption>Fig 1.1 Burger image</caption>
+    <hr>
+    <section id="arbaminch">
+    <h2>About A/Minch Deivery</h2>
+    <p><abbr title="Arba Minch">A/Minch</abbr> Delivery was established in 2010.<mark>Delivery Services </mark>  means the pickup of one or more local products from a local merchant and delivery of the local products to a customer.Want to eat out but don't want to go out? Check out <strong>restuorant near</strong>  you and order exactly what you're looking for &#128514;</p>&#128517;&#128516;</p>
+    <h2>Arba Minch</h2>
+    <details>
+       <summary>
+        "where is Arba Minch?"
+    </summary>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam eum numquam nihil sunt ullam a, molestias necessitatibus quisquam soluta similique hic aut, molestiae illum non veritatis alias provident explicabo. Perferendis alias impedit rerum doloremque, provident maiores omnis placeat esse sapiente quisquam natus ullam nobis, quae nostrum ad, aliquam maxime incidunt? Dolorum ipsam at nulla molestiae adipisci quos quibusdam praesentium animi aliquid, odit labore consequuntur perspiciatis maxime? Ducimus obcaecati magni ab dolorem numquam distinctio libero minus iure, nam repudiandae voluptas! Odit facilis enim deserunt eligendi obcaecati voluptatem quis aliquid tempora totam suscipit, officiis porro, ex non voluptatum, veniam quaerat culpa sunt minima odio cumque beatae! Magnam, sapiente cupiditate obcaecati nam explicabo numquam laboriosam temporibus deleniti. Animi, corporis iure debitis ut fugit excepturi, eveniet, explicabo labore officia nobis vero. Dicta quia a rem eaque eligendi sit eum sapiente quis quibusdam, minima aperiam? Ratione nam recusandae debitis provident in nisi iure, repellat officia. (source: <a href="https://en.wikipedia.org/wiki/Arba_Minch" target="_blank">wikipedia</a>) </p>
+    </details>
+    <hr>
